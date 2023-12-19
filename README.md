@@ -29,4 +29,4 @@ MS Directshow API를 활용한 미디어 플레이어
   </br>
   </br>
 ## 3. 실행 방법
-Path : WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
+실행경로 : WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
