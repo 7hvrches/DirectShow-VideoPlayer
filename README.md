@@ -26,3 +26,6 @@ MS Directshow API를 활용한 미디어 플레이어
   </br>
   </br>
 ![2](https://github.com/7hvrches/SimpleVideoPlayer/assets/14012685/b2b61e39-3d19-42e5-b3f5-61189699d477)
+
+## 3. 실행 방법
+Path : WindowsFormsApp5/bin/Debug/WindowsFormsApp5.exe
