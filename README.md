@@ -1,4 +1,4 @@
-# SimpleVideoPlayer
+# DirectShow-VideoPlayer
 MS Directshow API를 활용한 미디어 플레이어
 
 ## 0. 개발 환경
